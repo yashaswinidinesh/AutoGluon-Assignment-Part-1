@@ -1,0 +1,16 @@
+# secrets
+kaggle.json
+
+# big, rebuildable
+AutogluonModels/
+
+# keep only submissions from data/
+data/**
+!data/
+!data/submissions/
+!data/submissions/**
+
+# notebooks/cache
+.ipynb_checkpoints/
+*.log
+*.tmp
