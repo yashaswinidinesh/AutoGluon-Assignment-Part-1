@@ -125,8 +125,8 @@ Open the notebook you want and run all cells.
 
 ---
 
-## 🔗 (Optional) Video Walkthrough
-- Add your unlisted YouTube or Drive playlist link here. Aim for **1–2 minutes per notebook**.  
+## 🔗  Video Walkthrough
+-  Goal is for **1–2 minutes per notebook**.  
 - Show: environment/runtime, `fit()` logs, **leaderboard**, printed metric(s).
 
 ---
