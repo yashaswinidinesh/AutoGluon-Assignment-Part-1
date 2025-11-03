@@ -3,7 +3,7 @@
 
 This repository contains **three runnable Jupyter notebooks** that showcase AutoGluon’s AutoML for tabular data and multimodal learning. Each notebook is self‑contained and uses short, reliable cells designed to finish quickly on Colab or a local GPU/CPU.
 
-> If you’re using Google Colab, remember to **keep outputs**: *Edit → Notebook settings →* uncheck “Omit code cell output when saving”.
+
 
 ---
 
